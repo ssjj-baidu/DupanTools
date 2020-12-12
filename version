@@ -6,21 +6,29 @@
         "web": "",
         "detail": "\u66F4\u65B0\u65F6\u95F4: 2020-10-07\u66F4\u65B0\u5185\u5BB9:1.优化自动更新2.开放离线下载3.修复云解析",
         "filelist": [{
+            "path": "\\libcurl.dll",
+            "md5": "4265f2a621a9a46125460e646e2d0445",
+            "dlink": "https://fzssjj.lanzoui.com/ibYb6jajosf"
+        }, {
+            "path": "\\sqlite3.dll",
+            "md5": "bcf8a4962c1fd3a56332ef31e8908501",
+            "dlink": "https://fzssjj.lanzoui.com/iXqZCjajled"
+        }, {
             "path": "\\DupanTools.exe",
             "md5": "e611fb49d31df6d464fd5491afe70b89",
             "dlink": "https://fzssjj.lanzoui.com/i3b0lh9keqb"
         }, {
             "path": "\\node.dll",
-            "md5": "95a1f6d849ebcffd885d601094f2a1b5",
-            "dlink": "https://fzssjj.lanzoui.com/ilMihh8p2gd"
+            "md5": "ccdc5b1168bfaa4aaa0a7e793f7789c0",
+            "dlink": "https://fzssjj.lanzoui.com/iCavwjajiub"
         }, {
             "path": "\\ExuiKrnln.dll",
-            "md5": "73b98f88320758e7174cd53aeea6dfd2",
-            "dlink": "https://fzssjj.lanzoui.com/ijSNMh8p2cj"
+            "md5": "daa8f88b4571701023e2bc752697a7dd",
+            "dlink": "https://fzssjj.lanzoui.com/ijFx8jajiwd"
         }, {
             "path": "\\DownloadData\\aria2c.exe",
-            "md5": "0e1ab4da4c4e2f0cb7990af2fce5e45b",
-            "dlink": "https://fzssjj.lanzoui.com/iZgjnh8p2if"
+            "md5": "6d1fe9171538df42e013e6ecf330ec48",
+            "dlink": "https://fzssjj.lanzoui.com/ilauhjajj2j"
         }],
         "code": 0,
         "message": "success"
